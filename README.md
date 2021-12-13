@@ -11,4 +11,4 @@ To provide the user with a helpful weather outlook for multiple cities so they c
 ## Website
 https://pdguerra12.github.io/Weather-Dashboard/
 ---
-![Weather Dashboard](https://user-images.githubusercontent.com/92958186/145880367-976495ae-2ebd-423b-9e1e-157380be525d.png)
+![Weather Dashboard](https://user-images.githubusercontent.com/92958186/145880757-006405b3-f689-4b60-b38c-ef9b27057461.png)
