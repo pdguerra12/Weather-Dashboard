@@ -1,26 +1,31 @@
 /* Simple styling I'll be using */
 *{
     box-sizing: border-box;
-    
+}
+
+.jumbotron {
+    background-color:#070aa7;
+    color: white;
 }
 
 body {
-    
     font-size: 16px;
     font-family: "Lato";
-    
 }
-h3{
+
+h3 {
     font-weight: bold;
 }
-.forecast{
-    
+
+.forecast {
     font-size: 0.9em;
 }
-span{
+
+span {
     font-size: 1em;
 }
-li:hover{
+
+li:hover {
     background-color: lightslategray;
     text-decoration: underline;
 }
